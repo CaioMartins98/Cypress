@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import SimpleModal from './Modals/SimpleModal';
 
 function App() {
   return (
@@ -17,6 +18,9 @@ function App() {
         >
           Learn React
         </a>
+        <button>
+        <SimpleModal/>
+        </button>
       </header>
     </div>
   );
