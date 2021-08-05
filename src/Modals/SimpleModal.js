@@ -65,11 +65,7 @@ const[clicked, setClicked] = useState(false)
   const handleClose = () => {
     setOpen(false);
   };
-
-  const handleClick = () => {
-      alert('Cadastro realizado com sucesso!')
-  }
-  // const imagem = url('https://ssl.gstatic.com/gb/images/p1_c9bc74a1.png');
+  
   const body = (
     <div style={modalStyle} className={classes.paper}>
       <label>
