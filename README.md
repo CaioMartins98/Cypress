@@ -1,5 +1,5 @@
 # 💻 Sobre o projeto
-### Iniciando meu estudos sobre testes automatizados, hoje resolvi aprender um pouco sobre o Cypress. Essa ferramente possibilita que nós simulemos o comportamento de um usuário no sistema via navegador. A automatização de testes no desenvolvimento de uma aplicação é de suma importância, uma vez q tais testes facilitam o encontro de bugs, fluxos da aplicação, entre outros, de uma forma rápida e com resultados imediatos.
+### Iniciando meu estudos sobre testes automatizados, resolvi aprender um pouco sobre o Cypress. Essa ferramente possibilita que nós simulemos o comportamento de um usuário no sistema via navegador. A automatização de testes no desenvolvimento de uma aplicação é de suma importância, uma vez q tais testes facilitam o encontro de bugs, fluxos da aplicação, entre outros, de uma forma rápida e com resultados imediatos.
 ### No teste onde o Cypress está sendo executado, fiz uma simulação de 'click' em um modal e após isso o preenchimento de um formulário simples.
 
 # 🔎 Curiosidade
